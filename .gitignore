@@ -1,0 +1,6 @@
+*.zip
+.idea
+resource/
+ljxd1221/
+test/
+caches/config
